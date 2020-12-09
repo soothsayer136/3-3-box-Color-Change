@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "..\\3 projects in jquery"
+	},
+	{
+		"path": "..\\tic tac toe"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "color"
+  }
+}
